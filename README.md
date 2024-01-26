@@ -1,11 +1,10 @@
-### Good day everyone! 
-
-### **I'm Sergey Senigov**  
+### Good day everyone, 
+Let me introduce myself.  I'm Sergey Senigov  
 Databases Developer & Engineer with 25 years of experience
 
 Always do my best to get the job done!  
 
-Data Engineering and Algorithms are my passion.  
+Data Engineering and Algorithms are my passion  
 
 Looking for a challenging job with **DWH, SQL, MPP Databases, Airflow, Docker, Python**
 ***  
