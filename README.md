@@ -1,6 +1,6 @@
 ### Good day everyone! 
 
-I'm Sergey Senigov  
+**I'm Sergey Senigov **  
 Databases Developer & Engineer with 25 years of experience
 
 Always do my **best** to get the job done!
