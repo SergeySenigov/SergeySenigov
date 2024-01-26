@@ -3,7 +3,7 @@ Good day everyone!
 
 Always do my best to get the job done!  
 
-Data Engineering and Algorithms are my passion  
+Data Engineering and Algorithms are my passion  🔥
 
 Looking for a challenging job with **DWH, SQL, PySpark, MPP Databases, Airflow, Docker, Python**
 ***  
