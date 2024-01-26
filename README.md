@@ -1,13 +1,13 @@
 ### Good day everyone! 
 
-I'm Sergey Senigov
-Databases Developer & Engineer
+I'm Sergey Senigov  
+Databases Developer & Engineer with 25 years of experience
 
 Always do my **best** to get the job done!
 
-I'm currently doing a project in **Data Engineering** and **ML** 
+**Data Engineering and Algoritms** are my passion
 
-I'm looking for a `challenging job` with fair benefits
+Looking for `challenging tasks` with fair benefits
 
 **DWH, SQL, MPP Databases, Airflow, Docker, Python**
 
