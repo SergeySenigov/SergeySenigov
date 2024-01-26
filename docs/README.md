@@ -6,5 +6,5 @@ Always do my best to get the job done!
 Data Engineering and Algorithms are my passion  🔥
 
 Looking for a challenging job with **DWH, SQL, PySpark, MPP Databases, Airflow, Docker, Python**
-***  
-Best way to connect me: <senigov@yandex.ru>
+***
+**The best way to connect me: <senigov@yandex.ru> or [t.me/SergeySenigov](https://t.me/SergeySenigov)**
