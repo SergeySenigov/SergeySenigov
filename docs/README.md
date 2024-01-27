@@ -1,5 +1,5 @@
 #### Good day!  
-#### I'm Sergey Senigov  
+I'm Sergey Senigov  
 #### **Databases Developer & Engineer**
 
 Data Engineering and Algorithms are my passion 🔥  Always do my best to get the job done! 
