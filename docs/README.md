@@ -1,4 +1,4 @@
-Good day everyone!  
+Good day!  
 #### I'm Sergey Senigov  
 ### **Databases Developer & Engineer**
 
