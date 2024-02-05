@@ -7,4 +7,4 @@ Data Engineering, Automation and Algorithms are my passion 🔥  Always do my be
 Looking for a challenging job with **`Apache Spark`, `Hadoop`, `Kafka`, `SQL`, `Python`, `BI tools`, `Kubernetes`**  
 See my profile and portfolio for other skills
 ***
-**The best way to connect me: <senigov@yandex.ru> or [t.me/SergeySenigov](https://t.me/SergeySenigov) or `8-904-801-72-87`**
+**The best way to connect me: [t.me/SergeySenigov](https://t.me/SergeySenigov), phone `8-904-801-72-87` or <senigov@yandex.ru>**
