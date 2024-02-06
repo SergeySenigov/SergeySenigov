@@ -1,7 +1,7 @@
 #### Good day!  
 I'm Sergey Senigov  
 
-**Data Engineering and Automation are my passion 🔥  Always do my best to get the job done! 🔥**
+**Data Engineering and Automation are my passion 🔥  Always do my best to get the job done!**
 
 Looking for a challenging job with **`Apache Spark`, `Hadoop`, `Kafka`, `SQL`, `Python`, `BI tools`, `Kubernetes`**  
 See my [portfolio](https://github.com/SergeySenigov/data-engineer-practicum-portfolio) for other skills
