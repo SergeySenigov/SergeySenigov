@@ -1,7 +1,7 @@
 #### Good day!  
 I'm Sergey Senigov  
 
-**Data Engineering and Intergration are my passion 🔥  Always do my best to get the job done!**
+**Data Engineering and Intergration are my passion 🔥  Always do my best to get the job done!**  
 
 **`SQL`, `ETL`, `Spark`, `Hadoop`, `Kafka`, `Python`, `BI`, `MPP Databases`, `Oracle`, `PostgreSQL`, `Airflow`, `Web services`, `Cloud services`, `Data Modeling`**  
 ***
