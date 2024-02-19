@@ -5,7 +5,7 @@ I'm Sergey Senigov
 
 My stack: **`SQL`, `ETL`, `Spark`, `Hadoop`, `Kafka`, `Python`, `BI`, `MPP Databases`, `Oracle`, `PostgreSQL`, `Airflow`, `Web services`, `Cloud services`, `Data Modeling`**  
 ***  
-You can connect me via **`Telegram` [t.me/SergeySenigov](https://t.me/SergeySenigov), `phone` 8-904-801-72-87 or `email` <senigov@yandex.ru>**
+You can connect me via **`Telegram` [t.me/SergeySenigov](https://t.me/SergeySenigov), `phone` +7-904-801-72-87 or `email` <senigov@yandex.ru>**
 ***  
 Ниже информация об основных выполненных проектах в области Data Engineering
 
