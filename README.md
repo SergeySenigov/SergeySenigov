@@ -1,5 +1,7 @@
 #### Hi there 👋
-I'm Sergey Senigov  
+My Name is Sergey Senigov  
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white)](https://www.linkedin.com/in/%D1%81%D0%B5%D1%80%D0%B3%D0%B5%D0%B9-%D1%81%D0%B5%D0%BD%D0%B8%D0%B3%D0%BE%D0%B2-65562093)
 
 **Data Engineering and Intergration are my passion 🔥  Always do my best to get the job done!**  
 
