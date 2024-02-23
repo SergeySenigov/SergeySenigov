@@ -1,4 +1,4 @@
-#### Hello!  
+#### Hi there 👋
 I'm Sergey Senigov  
 
 **Data Engineering and Intergration are my passion 🔥  Always do my best to get the job done!**  
