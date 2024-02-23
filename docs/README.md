@@ -3,7 +3,7 @@ I'm Sergey Senigov
 
 **Data Engineering and Intergration are my passion 🔥  Always do my best to get the job done!**  
 
-My stack: **`SQL`, `ETL`, `Spark`, `Hadoop`, `Kafka`, `Python`, `BI`, `MPP Databases`, `Oracle`, `PostgreSQL`, `Airflow`, `Web services`, `Cloud services`, `Data Modeling`**  
+My stack: **`SQL`, `ETL`, `Spark`, `Hadoop`, `Python`, `BI`, `MPP Databases`, `Oracle`, `PostgreSQL`, `Airflow`, `Web services`, `Cloud services`, `Data Modeling`**  
 ***  
 You can connect me via **`Telegram` [t.me/SergeySenigov](https://t.me/SergeySenigov), `phone` +7-904-801-72-87 or `email` <senigov@yandex.ru>**
 ***  
