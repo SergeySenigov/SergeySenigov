@@ -11,7 +11,7 @@ You can connect me via **[Telegram](https://t.me/SergeySenigov), <senigov@yandex
 
 | Project                         | Stack & Tools|
 | :-------------------- | :--------------------- |
-| [Витрина данных для web-аналитики в ClickHouse](https://github.com/SergeySenigov/ClickHouse-Datamarts)          | ClickHouse · ETL · DWH · SQL · Python · Data Modeling · AirFlow · Yandex S3 · MS Visual Studio Code · SQLAlchemy · Datalense
+| [Витрина данных для web-аналитики в ClickHouse](https://github.com/SergeySenigov/ClickHouse-Datamarts)          | ClickHouse · ETL · DWH · SQL · Python · Data Modeling · AirFlow · Yandex S3 · MS Visual Studio Code · SQLAlchemy · Datalense · boto3
 | [Проекты курса Инженер данных на платформе Yandex Practicum](https://github.com/SergeySenigov/data-engineer-practicum-portfolio)           | ETL · Spark · Hadoop · SQL · PySpark · Python · AirFlow · bash · MongoDB · PostgreSQL · Vertica · Redis · pandas · SQLAlchemy · cloudbeaver · Jupyter Notebook · Yandex S3 · YARN · MapReduce · HDFS · Parquet · AVRO · Metabase · Datalense · Kafka · kcat · flask · Window Functions · Docker Composer · Kubernetes · kubectl · Helm 
 | [Фреймворк отчетности для Oracle Customer Care And Billing (CC&B)](https://github.com/SergeySenigov/Oracle-CCB-Flexible-Reports-Engine)          | SQL · Data Modeling · PL\SQL · Reporting · Oracle PL\SQL Developer · Oracle Business Intelligence · OLAP
 | [Мониторинг полноты и корректности данных энергопотребления](https://github.com/SergeySenigov/Energy-Consumption-Data-Validity-Checks)    | Prometheus · alertmanager · Grafana · MongoDB · PostgreSQL · RabbitMQ · Camunda Modeler · draw.io  
