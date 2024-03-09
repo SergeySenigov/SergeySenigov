@@ -5,7 +5,7 @@ Passionate about automation and intergation 🔥  Always do my best to get the j
 <!-- Data Engineering and Intergration are my passion 🔥  Always do my best to get the job done!  -->
 <!-- Stack: SQL, ETL, Spark, Hadoop, Python, Oracle, PostgreSQL, MongoDB, ClickHouse, Vertica, Airflow, Docker, Web services, Cloud services, Data Modeling  -->
 
-You can connect me **[Telegram](https://t.me/SergeySenigov), <senigov@yandex.ru>, [LinkedIn](https://www.linkedin.com/in/%D1%81%D0%B5%D1%80%D0%B3%D0%B5%D0%B9-%D1%81%D0%B5%D0%BD%D0%B8%D0%B3%D0%BE%D0%B2-65562093)**, phone +7-904-801-72-87
+Contacts: **[Telegram](https://t.me/SergeySenigov), <senigov@yandex.ru>, [LinkedIn](https://www.linkedin.com/in/%D1%81%D0%B5%D1%80%D0%B3%D0%B5%D0%B9-%D1%81%D0%B5%D0%BD%D0%B8%D0%B3%D0%BE%D0%B2-65562093)**, phone +7-904-801-72-87
 
 <!-- **Проекты, Stack & Tools** -->
 | Проект                         | Технологии, инструменты, библиотеки |
