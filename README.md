@@ -15,5 +15,5 @@ Contacts: **[Telegram](https://t.me/SergeySenigov), <senigov@yandex.ru>, [Linked
 | [Фреймворк отчетности для Oracle Customer Care And Billing (CC&B)](https://github.com/SergeySenigov/Oracle-CCB-Flexible-Reports-Engine)          | Relational Databases · SQL · Data Modeling · PL\SQL · Oracle PL\SQL Developer · Oracle Business Intelligence · OLAP · Ad-hoc Reports 
 | [Мониторинг полноты и корректности данных энергопотребления](https://github.com/SergeySenigov/Energy-Consumption-Data-Validity-Checks)    | Prometheus · alertmanager · Grafana · MongoDB · PostgreSQL · RabbitMQ · Camunda Modeler · draw.io · BPMN 
 | [Cистема регламентной и ad-hoc отчетности для Oracle E-Business Suite](https://github.com/SergeySenigov/OEBS-Custom-Reports-Framework)    | SQL · ERP · Relational Databases · Oracle · Data Modeling · Data Quality · PL\SQL · Oracle Reports & Forms 6i · Oracle PL\SQL Developer · MS Visual SourceSafe
-| [Роботизация колл-центра](https://github.com/SergeySenigov/Call-Center-Automation)        | SQL · MySQL · Oracle Apex · phpMyAdmin · Web Services · Yandex Cloud Services
+| [Роботизация колл-центра на MySQL и Oracle](https://github.com/SergeySenigov/Call-Center-Automation)        | SQL · Data Modeling · MySQL · Oracle Apex · phpMyAdmin · Web Services · PHP
 
