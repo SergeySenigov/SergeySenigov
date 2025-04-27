@@ -1,14 +1,14 @@
 #### Hi there 👋
 #### My Name is Sergey Senigov  
-Data Engineer with 15+ yr Experience. Proficient at SQL, Apache Spark, Apache Flink, Python, DWH Development, Oracle, Airflow
+Data Engineer with 20+ yr Experience. Proficient at SQL, Apache Spark, Apache Flink, Python, DWH Development, Oracle, Airflow.
 Passionate about Big Data, automation and integration 🔥 Always do my best to get the job done!  
 <!-- Data Engineering and Integration are my passion 🔥 Always do my best to get the job done!  -->
 <!-- Stack: SQL, ETL, Spark, Hadoop, Python, Oracle, PostgreSQL, MongoDB, ClickHouse, Vertica, Airflow, Docker, Web services, Cloud services, Data Modeling  -->
 
-Contacts: **[Telegram](https://t.me/SergeySenigov), <senigov@gmail.ru>, [LinkedIn](https://www.linkedin.com/in/%D1%81%D0%B5%D1%80%D0%B3%D0%B5%D0%B9-%D1%81%D0%B5%D0%BD%D0%B8%D0%B3%D0%BE%D0%B2-65562093)**, phone +7-904-801-72-87
+Contacts: **<senigov@gmail.ru>, [LinkedIn](https://www.linkedin.com/in/sergeysenigov/**, phone +7-904-801-72-87
 
 <!-- **Проекты, Stack & Tools** -->
-| Проект                         | Технологии, инструменты, библиотеки |
+| Project                         | Stack, tools, libs |
 | :-------------------- | :--------------------- |
 | [Projects Training Course Data Engineer at Yandex Practicum](https://github.com/SergeySenigov/data-engineer-practicum-portfolio)           | ETL · Spark · Hadoop · SQL · PySpark · Python · AirFlow · bash · MongoDB · PostgreSQL · Vertica · Redis · pandas · SQLAlchemy · cloudbeaver · Jupyter Notebook · Yandex S3 · YARN · MapReduce · HDFS · Parquet · AVRO · Metabase · Datalense · Kafka · kcat · flask · Window Functions · Docker Composer · Kubernetes · kubectl · Helm 
 | [Reporting Framework for Oracle Customer Care And Billing (CC&B)](https://github.com/SergeySenigov/Oracle-CCB-Flexible-Reports-Engine)          | DWH · SQL · Data Modeling · PL\SQL · Oracle PL\SQL Developer · Oracle Business Intelligence · OLAP · Ad-hoc Reports 
