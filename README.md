@@ -1,6 +1,6 @@
 #### Hi there 👋
 #### My Name is Sergey Senigov  
-Data Engineer with 20+ yr Experience. Proficient at SQL, Apache Spark, Apache Flink, Python, DWH Development, Oracle, Airflow.
+Data Engineer with 20+ yr Experience. Proficient at SQL, Apache Spark, Apache Flink, Python, ETL, DWH Development, Oracle, Airflow.
 Passionate about Big Data, automation and integration 🔥 Always do my best to get the job done!  
 <!-- Data Engineering and Integration are my passion 🔥 Always do my best to get the job done!  -->
 <!-- Stack: SQL, ETL, Spark, Hadoop, Python, Oracle, PostgreSQL, MongoDB, ClickHouse, Vertica, Airflow, Docker, Web services, Cloud services, Data Modeling  -->
